@@ -5,4 +5,6 @@ UNCC student at Charlotte who loves building things and completing projects in C
 Favorite programming language: scratch
 
 Connect with me:
-- LinkedIn: linkedin.com/in/hunter-andrews12
+- LinkedIn: [linkedin.com/in/hunter-andrews12
+](https://www.linkedin.com/in/hunter-andrews12/?isSelfProfile=true)
+
